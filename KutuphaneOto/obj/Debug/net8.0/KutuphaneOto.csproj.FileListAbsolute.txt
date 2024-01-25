@@ -1,0 +1,15 @@
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.AssemblyInfoInputs.cache
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.AssemblyInfo.cs
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.csproj.CoreCompileInputs.cache
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.sourcelink.json
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\bin\Debug\net8.0\KutuphaneOto.exe
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\bin\Debug\net8.0\KutuphaneOto.deps.json
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\bin\Debug\net8.0\KutuphaneOto.runtimeconfig.json
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\bin\Debug\net8.0\KutuphaneOto.dll
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\bin\Debug\net8.0\KutuphaneOto.pdb
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.dll
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\refint\KutuphaneOto.dll
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.pdb
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\KutuphaneOto.genruntimeconfig.cache
+C:\Users\EdaGunes\Source\Repos\C#_MasterClass\KutuphaneOto\KutuphaneOto\obj\Debug\net8.0\ref\KutuphaneOto.dll
